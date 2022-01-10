@@ -143,7 +143,7 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(images/online.jpg) no-repeat;
+    background:url(online.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -151,7 +151,7 @@ section{
     display: flex;
     align-items: center; 
     min-height: 100vh; 
-    background:url(images/watch.webp) ;
+    background:url(watch.webp) ;
      background-size: cover;
     background-position: center; 
 }
