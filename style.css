@@ -68,7 +68,7 @@ nav .menu{
 
 /* -----welcome----------  */
 #img {
-    background-image: url(images/back.jpg);
+    background-image: url(back.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
